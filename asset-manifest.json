@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TournamentReactweb/static/css/main.9b60cb81.css",
+    "main.js": "/TournamentReactweb/static/js/main.613c6b96.js",
+    "static/media/valo.jpg": "/TournamentReactweb/static/media/valo.752a92283770ad973a18.jpg",
+    "static/media/pubg.jpg": "/TournamentReactweb/static/media/pubg.5145145b4a8841e3dd6a.jpg",
+    "static/media/mines.jpg": "/TournamentReactweb/static/media/mines.c45d0ce188e40838d3fc.jpg",
+    "static/media/img1.jpg": "/TournamentReactweb/static/media/img1.aa99c0d47e7b3d2b5f3e.jpg",
+    "static/media/esp.jpg": "/TournamentReactweb/static/media/esp.937c0003bbc184e0cd32.jpg",
+    "static/media/fortnite.webp": "/TournamentReactweb/static/media/fortnite.be4ab013f8a90c0d50be.webp",
+    "static/media/img2.webp": "/TournamentReactweb/static/media/img2.20ec92c44b542f2ff431.webp",
+    "static/media/call.webp": "/TournamentReactweb/static/media/call.67996c1ae3b307826eca.webp",
+    "static/media/csgo.webp": "/TournamentReactweb/static/media/csgo.d8e3c0fc816fd1ccade7.webp",
+    "index.html": "/TournamentReactweb/index.html",
+    "main.9b60cb81.css.map": "/TournamentReactweb/static/css/main.9b60cb81.css.map",
+    "main.613c6b96.js.map": "/TournamentReactweb/static/js/main.613c6b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b60cb81.css",
+    "static/js/main.613c6b96.js"
+  ]
+}
